@@ -10,3 +10,5 @@ set_global_assignment -name VHDL_FILE pacman_audio.vhd
 set_global_assignment -name VHDL_FILE pengo_video.vhd
 set_global_assignment -name VHDL_FILE pengo.vhd
 set_global_assignment -name SYSTEMVERILOG_FILE "Arcade-Pengo.sv"
+set_global_assignment -name VERILOG_FILE joydb9md.v
+set_global_assignment -name VERILOG_FILE joydb15.v
